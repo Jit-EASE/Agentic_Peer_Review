@@ -1,0 +1,18 @@
+# Core Web/UI
+streamlit
+
+# PDF Handling
+PyPDF2
+reportlab
+
+# AI / OpenAI
+openai
+
+# Data / Parsing
+regex
+
+# Visuals
+matplotlib
+
+# Utilities
+python-dateutil
