@@ -1,0 +1,26 @@
+agentic_peer_review/
+│
+├── streamlit_app.py
+├── orchestrator.py
+│
+├── modules/
+│   ├── pdf_loader.py
+│   ├── text_segmenter.py
+│   ├── analysis_engine.py
+│   ├── refine_engine.py
+│   ├── section_reviewer.py
+│   ├── citation_checker.py
+│   ├── argument_mapper.py
+│   ├── novelty_detector.py
+│   ├── persona_reviewer.py
+│   ├── reviewer_panel.py
+│   ├── editor_module.py
+│   ├── visuals.py
+│   ├── pdf_builder.py
+│   ├── utils.py
+│
+└── components/
+    ├── refine_components.py
+    ├── layer_panels.py
+    ├── layout_blocks.py
+    ├── timeline.py
